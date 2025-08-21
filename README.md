@@ -1,7 +1,20 @@
 📦 MvcStok Projesi
 
 MvcStok, ASP.NET MVC kullanılarak geliştirilmiş bir Stok Takip Uygulamasıdır.
-Bu projede ürünler, kategoriler, müşteriler ve satış işlemleri kolayca yönetilebilir.
+Projede ürünler, kategoriler, müşteriler ve satış işlemleri kolayca yönetilebilir.
+
+🎯 Projenin Amacı
+
+Bu proje, ASP.NET MVC öğrenmek ve stok yönetim mantığını uygulamalı olarak görmek amacıyla hazırlanmıştır.
+Hem öğrenciler hem de yazılım geliştirmeye yeni başlayanlar için:
+
+MVC mimarisini kavrama,
+
+Veritabanı ile CRUD işlemlerini yapma,
+
+Entity Framework kullanmayı öğrenme,
+
+Basit bir stok takip sisteminin nasıl kurulacağını görme imkanı sunar.
 
 🚀 Özellikler
 
