@@ -5,8 +5,7 @@ Projede ürünler, kategoriler, müşteriler ve satış işlemleri kolayca yöne
 
 🎯 Projenin Amacı
 
-Bu proje, ASP.NET MVC öğrenmek ve stok yönetim mantığını uygulamalı olarak görmek amacıyla hazırlanmıştır.
-Hem öğrenciler hem de yazılım geliştirmeye yeni başlayanlar için:
+Bu proje, ASP.NET MVC öğrenmek ve stok yönetim mantığını uygulamalı olarak görmek amacıyla hazırlanmıştır:
 
 MVC mimarisini kavrama,
 
